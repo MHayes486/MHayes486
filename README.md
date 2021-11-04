@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MHayes486
 - 👀 I’m interested in improving my IT Skills
-- 🌱 I’m currently learning various langauages such as C#, Java, JavaScript, HTML, PHP and CSS (as part of a Bachelors program in IT)
+- 🌱 I’m currently learning various langauages such as C#, Java, JavaScript, HTML, PHP, SCSS and CSS (as part of a Bachelors program in IT)
 - 💞️ I’m looking to collaborate on nothing as yet, until my course is finised.
 - 📫 How to reach me mhayesstudy@gmail.com
 
